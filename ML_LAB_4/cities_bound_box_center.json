@@ -1,0 +1,142 @@
+{
+  "cairo": {
+    "file": "C:\\\\Users\\\\kacpe\\\\Desktop\\\\Studia\\\\ML\\\\cities\\cairo_Sentinel_2_RGB.tif",
+    "bbox": {
+      "west": 31.19969654103004,
+      "south": 30.01119037863786,
+      "east": 31.29974543108546,
+      "north": 30.113934465378247,
+      "crs": "EPSG:4326"
+    },
+    "center": {
+      "lat": 30.062571104425526,
+      "lon": 31.249695334967914
+    }
+  },
+  "delhi": {
+    "file": "C:\\\\Users\\\\kacpe\\\\Desktop\\\\Studia\\\\ML\\\\cities\\delhi_Sentinel_2_RGB.tif",
+    "bbox": {
+      "west": 77.16460466045227,
+      "south": 28.558269379392843,
+      "east": 77.26895101634958,
+      "north": 28.658339899706238,
+      "crs": "EPSG:4326"
+    },
+    "center": {
+      "lat": 28.608316225295233,
+      "lon": 77.216752959243
+    }
+  },
+  "london": {
+    "file": "C:\\\\Users\\\\kacpe\\\\Desktop\\\\Studia\\\\ML\\\\cities\\london_Sentinel_2_RGB.tif",
+    "bbox": {
+      "west": -0.1819908935333899,
+      "south": 51.457504655250915,
+      "east": -0.06919595842294712,
+      "north": 51.55727306530602,
+      "crs": "EPSG:4326"
+    },
+    "center": {
+      "lat": 51.50740357334219,
+      "lon": -0.12565561721674692
+    }
+  },
+  "los": {
+    "file": "C:\\\\Users\\\\kacpe\\\\Desktop\\\\Studia\\\\ML\\\\cities\\los_angeles_Sentinel_2_RGB.tif",
+    "bbox": {
+      "west": -118.29356372829317,
+      "south": 34.00117101108878,
+      "east": -118.1934289507658,
+      "north": 34.10327633885906,
+      "crs": "EPSG:4326"
+    },
+    "center": {
+      "lat": 34.05223341361958,
+      "lon": -118.2435261968934
+    }
+  },
+  "mexico": {
+    "file": "C:\\\\Users\\\\kacpe\\\\Desktop\\\\Studia\\\\ML\\\\cities\\mexico_city_Sentinel_2_RGB.tif",
+    "bbox": {
+      "west": -99.18322469182911,
+      "south": 19.381765076762083,
+      "east": -99.08318791440213,
+      "north": 19.482061455731817,
+      "crs": "EPSG:4326"
+    },
+    "center": {
+      "lat": 19.431920204299256,
+      "lon": -99.13322165018435
+    }
+  },
+  "new": {
+    "file": "C:\\\\Users\\\\kacpe\\\\Desktop\\\\Studia\\\\ML\\\\cities\\new_york_Sentinel_2_RGB.tif",
+    "bbox": {
+      "west": -74.0574877940084,
+      "south": 40.66268498110267,
+      "east": -73.95442288535841,
+      "north": 40.762692425140955,
+      "crs": "EPSG:4326"
+    },
+    "center": {
+      "lat": 40.712700871203936,
+      "lon": -74.0059940433493
+    }
+  },
+  "paris": {
+    "file": "C:\\\\Users\\\\kacpe\\\\Desktop\\\\Studia\\\\ML\\\\cities\\paris_Sentinel_2_RGB.tif",
+    "bbox": {
+      "west": 2.302154541708476,
+      "south": 48.80595592197855,
+      "east": 2.4022775663699685,
+      "north": 48.90718278054893,
+      "crs": "EPSG:4326"
+    },
+    "center": {
+      "lat": 48.85658022449604,
+      "lon": 2.3521657269601177
+    }
+  },
+  "sao": {
+    "file": "C:\\\\Users\\\\kacpe\\\\Desktop\\\\Studia\\\\ML\\\\cities\\sao_paulo_Sentinel_2_RGB.tif",
+    "bbox": {
+      "west": -46.68524245396418,
+      "south": -23.600318587744034,
+      "east": -46.582624085380466,
+      "north": -23.50025753175423,
+      "crs": "EPSG:4326"
+    },
+    "center": {
+      "lat": -23.550297762298896,
+      "lon": -46.63391377270969
+    }
+  },
+  "shanghai": {
+    "file": "C:\\\\Users\\\\kacpe\\\\Desktop\\\\Studia\\\\ML\\\\cities\\shanghai_Sentinel_2_RGB.tif",
+    "bbox": {
+      "west": 121.42369892056618,
+      "south": 31.17918216982093,
+      "east": 121.52378323351184,
+      "north": 31.281590486594038,
+      "crs": "EPSG:4326"
+    },
+    "center": {
+      "lat": 31.230395391142746,
+      "lon": 121.47371425767771
+    }
+  },
+  "tokyo": {
+    "file": "C:\\\\Users\\\\kacpe\\\\Desktop\\\\Studia\\\\ML\\\\cities\\tokyo_Sentinel_2_RGB.tif",
+    "bbox": {
+      "west": 139.64170589034117,
+      "south": 35.638378362236956,
+      "east": 139.74170795922117,
+      "north": 35.74062094267949,
+      "crs": "EPSG:4326"
+    },
+    "center": {
+      "lat": 35.68950957658655,
+      "lon": 139.69167519878638
+    }
+  }
+}
